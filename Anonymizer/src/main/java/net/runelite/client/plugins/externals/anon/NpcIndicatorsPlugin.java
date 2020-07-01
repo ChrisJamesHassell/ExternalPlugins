@@ -57,7 +57,7 @@ import org.pf4j.Extension;
 
 @Extension
 @PluginDescriptor(
-		name = "NPC Indicators",
+		name = "NPC Indicators2222",
 		description = "Highlight NPCs on-screen and/or on the minimap",
 		tags = {"highlight", "minimap", "npcs", "overlay", "respawn", "tags"},
 		type = PluginType.UTILITY
